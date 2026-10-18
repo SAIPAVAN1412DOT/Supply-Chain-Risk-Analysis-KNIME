@@ -66,25 +66,25 @@ Every order is scored and classified into Low, Medium, or High delivery risk bas
 ## Screenshots
 
 **Step 1 — CSV Reader — 180,519 rows loaded**
-![CSV Reader](screenshots/1%20CSV%20READER.png)
+![CSV Reader](1%20CSV%20READER.png)
 
 **Step 2 — Column Filter — 10 relevant columns**
-![Column Filter](screenshots/2%20column%20filter.png)
+![Column Filter](2%20column%20filter.png)
 
 **Step 3 — Math Formula — Delay_days calculated**
-![Math Formula](screenshots/3%20math%20formula.png)
+![Math Formula](3%20math%20formula.png)
 
 **Step 4 — Rule Engine — Risk category assigned**
-![Rule Engine](screenshots/4%20RULE%20ENGINE.png)
+![Rule Engine](4%20RULE%20ENGINE.png)
 
 **Step 5 — GroupBy — Orders counted per category**
-![GroupBy](screenshots/5%20GROUP%20BY.png)
+![GroupBy](5%20GROUP%20BY.png)
 
 **Step 6 — Math Formula — Percentages calculated**
-![Math Formula %](screenshots/6%20MATH%20FORMULA%20%.png)
+![Math Formula %](6%20MATH%20FORMULA%20%25.png)
 
 **Step 7 — Bar Chart — Risk distribution visualised**
-![Bar Chart](screenshots/7%20BAR%20CHART%20VISUALIZATION.png)
+![Bar Chart](7%20BAR%20CHART%20VISUALIZATION.png)
 
 ---
 
